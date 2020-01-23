@@ -80,3 +80,9 @@ https://nodejs.org/dist/latest-v12.x/docs/api/path.html
 ```bash
 node path_demo
 ```
+
+https://nodejs.org/dist/latest-v12.x/docs/api/fs.html
+
+```bash
+node fs_demo
+```
