@@ -74,3 +74,9 @@ npm install
 node index.js
 node index
 ```
+
+https://nodejs.org/dist/latest-v12.x/docs/api/path.html
+
+```bash
+node path_demo
+```
