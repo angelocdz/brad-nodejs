@@ -85,4 +85,5 @@ https://nodejs.org/dist/latest-v12.x/docs/api/fs.html
 
 ```bash
 node fs_demo
+node os_demo
 ```
