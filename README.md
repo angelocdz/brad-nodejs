@@ -110,3 +110,6 @@ localhost:5000
 ctrl+u
 developer tools, network, localhost, refresh if no display
  headers, content-type
+
+localhost:5000/about
+localhost:5000/api/users
