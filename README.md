@@ -117,3 +117,9 @@ developer tools, network, localhost, refresh if no display
 localhost:5000/about
 
 localhost:5000/api/users
+
+### build file path
+
+localhost:5000/
+
+localhost:5000/about
