@@ -89,3 +89,24 @@ node os_demo
 node url_demo
 node event_demo
 ```
+
+```bash
+node http_demo
+node index
+```
+
+localhost:5000
+localhost:5000/about
+
+```bash
+nodemon index
+```
+
+```bash
+npm run dev
+```
+
+localhost:5000
+ctrl+u
+developer tools, network, localhost, refresh if no display
+ headers, content-type
