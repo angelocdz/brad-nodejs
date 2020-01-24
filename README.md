@@ -123,3 +123,34 @@ localhost:5000/api/users
 localhost:5000/
 
 localhost:5000/about
+
+### deployment in heroku
+
+https://www.heroku.com/
+heroku cli
+download and install
+
+```bash
+heroku --version
+heroku login
+```
+
+https://git-scm.com
+download and install
+
+```bash
+git version
+```
+
+```bash
+.gitignore
+ node_modules
+ reference
+ logger.js
+ person.js
+git init
+git add .
+git commit -m 'initial commit'
+
+heroku create
+```
