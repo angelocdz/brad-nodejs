@@ -154,3 +154,13 @@ git commit -m 'initial commit'
 
 heroku create
 ```
+
+https://dashboard.heroku.com/apps
+click domain name
+ deploy
+
+```bash
+heroku git:remote -a enigmatic-island-05540
+git push heroku master
+heroku open
+```
